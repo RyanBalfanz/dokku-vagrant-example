@@ -8,12 +8,9 @@ These are just my notes on how to run dokku on Vagrant.
 Installing
 ----------
 
-First, install Vagrant. Then, add entries to the Host Database in /etc/hosts, such as:
+First, install Vagrant. 
 
-	10.0.0.2	dokku.me
-	10.0.0.2	dokku-vagrant-example.dokku.me
-
-Go!
+Then,
 
 	git clone https://github.com/RyanBalfanz/dokku-vagrant-example.git
 	cd dokku-vagrant-example
